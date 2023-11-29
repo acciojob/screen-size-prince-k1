@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const h = document.querySelector('#sizeInfo');
+const h = document.querySelector('h1');
 
 function updateSize() {
 	let width = window.innerWidth;
